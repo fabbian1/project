@@ -1,0 +1,7 @@
+#Ignoring Files: Sometimes you'll have files you don’t want Git to automatically add or even show you as being untracked
+
+#Ignore files ending in “.o” or “.a” — object and archive files
+*.[oa] 
+
+#ignore temporary files depected by titlde ~
+*~
